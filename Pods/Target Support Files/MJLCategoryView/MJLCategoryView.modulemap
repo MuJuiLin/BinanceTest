@@ -1,0 +1,6 @@
+framework module MJLCategoryView {
+  umbrella header "MJLCategoryView-umbrella.h"
+
+  export *
+  module * { export * }
+}

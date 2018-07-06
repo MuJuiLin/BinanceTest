@@ -1,0 +1,6 @@
+framework module Pods_BinanceTestTests {
+  umbrella header "Pods-BinanceTestTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
